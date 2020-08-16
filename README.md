@@ -6,3 +6,8 @@
  
 ## 使用到的资料
 - [《30天自制操作系统》 川合秀实著 周自恒等译](http://hrb.osask.jp/)
+
+## 使用的工具
+- VMware
+- VirtualBox
+- QEMU（https://qemu.weilnetz.de/w64/qemu-w64-setup-20200814.exe）
